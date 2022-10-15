@@ -1,6 +1,5 @@
 
 let searchname = document.getElementById("breed-name")
-// console.log()
 
 async function particularbreedImage(){
     try{
